@@ -25,16 +25,13 @@
 
 ---
 
-### 🌌 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚  
-🚀 **Tech Visionary** | 🌙 **Avid Reader**  
-
-- 🕯️ **Manifesting ML-powered enchantments**—from language learning to music sentiment analysis.  
-- 🔥 Brewing an **AI-driven carpool system** (patent pending, 'cause I **own** my ideas).   
-- 🛠️ **Stack:** Python, C++, Flask, React, PostgreSQL, and just *a little bit of chaos.*  
+### 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚  
+🚀 **Tech Visionary** 
+🌙 **Avid Reader**   
 
 ---
 
-### 🖤 𝙒𝙝𝙖𝙩 𝙄’𝙢 𝙐𝙥 𝙏𝙤  
+### 𝙒𝙝𝙖𝙩 𝙄’𝙢 𝙐𝙥 𝙏𝙤  
 🔹 **Coding incantations**
 🔹 **Catching upto books.**  
 
