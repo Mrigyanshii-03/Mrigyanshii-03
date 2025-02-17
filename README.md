@@ -33,6 +33,7 @@
 
 ### 𝙒𝙝𝙖𝙩 𝙄’𝙢 𝙐𝙥 𝙏𝙤  
 🔹 **Coding incantations**
+🔹 **Learning and deploying machine learning.**
 🔹 **Catching upto books.**  
 
 ---
